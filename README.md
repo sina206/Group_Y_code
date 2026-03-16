@@ -1,3 +1,7 @@
+# Project Submission
+- We provide our project as a GitHub repository: https://github.com/sina206/Group_Y_code
+- Moodle limits submissions to files under 50 MB and a maximum of five files. Using GitHub avoids splitting the repository across multiple ZIP files and reconstructing it.
+
 # Contents
 
 * [Dependency Installation Instructions](#dependency-installation-instructions)
