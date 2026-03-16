@@ -1,0 +1,14 @@
+# ignore caches
+__pycache__/
+*.pyc
+
+# ignore saved weights
+models/
+*.pth
+
+# ignore OS/IDE junk
+.ipynb_checkpoints/
+.DS_Store
+
+# ignore cached embeddings
+*.npz
